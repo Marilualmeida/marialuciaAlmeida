@@ -179,5 +179,5 @@ Este GitHub representa minha trajetória de aprendizado na área de Tecnologia d
 Aqui você encontrará projetos, estudos, desafios e materiais desenvolvidos ao longo da minha evolução profissional.
 
 ⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5f3f9183-6f7c-4686-8c14-c38c10d1aa61" />
+<img width="1024" height="1536" alt="image" src="https://github.com/Marilualmeida/marialuciaAlmeida/issues/1" />
 
