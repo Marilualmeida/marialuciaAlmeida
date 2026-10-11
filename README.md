@@ -1,4 +1,4 @@
-<img width="1040" height="500" alt="image" src="WhatsApp Imagedio 2026-10-08 at 16.39.46.jpeg" />
+<img src="WhatsApp Imagedio 2026-10-08 at 16.39.46.jpeg" width="700" alt="image">
 # 👋 Olá! Eu sou Maria Lúcia Almeida
 
 ### 💻 Estudante de Tecnologia da Informação | Desenvolvimento Web | Inteligência Artificial | Aprendizagem Contínua
@@ -187,5 +187,6 @@ Este GitHub representa minha trajetória de aprendizado na área de Tecnologia d
 Aqui você encontrará projetos, estudos, desafios e materiais desenvolvidos ao longo da minha evolução profissional.
 
 ⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
-<img width="1024" height="1536" alt="image" src="https://github-readme-streak-stats.herokuapp.com?user=Marilualmeida&theme=radical" alt="GitHub Streak" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marilualmeida&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+</p>
