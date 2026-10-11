@@ -189,4 +189,5 @@ Aqui você encontrará projetos, estudos, desafios e materiais desenvolvidos ao 
 ⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Marilualmeida&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Marilualmeida&theme=radical" alt="GitHub Streak" />
 </p>
