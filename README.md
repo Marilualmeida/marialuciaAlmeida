@@ -1,3 +1,4 @@
+<img width="1024" height="1536" alt="image" src="WhatsApp Imagedio 2026-10-08 at 16.39.46.jpeg" />
 # 👋 Olá! Eu sou Maria Lúcia Almeida
 
 ### 💻 Estudante de Tecnologia da Informação | Desenvolvimento Web | Inteligência Artificial | Aprendizagem Contínua
@@ -111,6 +112,8 @@ E-book desenvolvido com o objetivo de apresentar os fundamentos do HTML5 de mane
 
 🎓 Tecnólogo em Processos Gerenciais
 
+📊 **Excel Avançado** (Funções lógicas, procv, somase, tabelas dinâmicas e dashboards)
+
 📖 Cursos na área de Tecnologia da Informação
 
 * Desenvolvimento Web
@@ -118,6 +121,8 @@ E-book desenvolvido com o objetivo de apresentar os fundamentos do HTML5 de mane
 * Git e GitHub
 * Inteligência Artificial
 * Bootcamps e desafios práticos
+* Excell avançado Dio
+* Inglês Intermediário
 
 ---
 
@@ -147,6 +152,9 @@ Utilizo ferramentas de Inteligência Artificial como apoio ao aprendizado, pesqu
 * Comunicação
 * Pensamento analítico
 * Curiosidade tecnológica
+* Comunicação Empresarial
+* Comportamento Profissional
+* Inteligência Emocional
 
 ---
 
@@ -179,5 +187,5 @@ Este GitHub representa minha trajetória de aprendizado na área de Tecnologia d
 Aqui você encontrará projetos, estudos, desafios e materiais desenvolvidos ao longo da minha evolução profissional.
 
 ⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha jornada!
-<img width="1024" height="1536" alt="image" src="WhatsApp Imagedio 2026-10-08 at 16.39.46.jpeg" />
+<img width="1024" height="1536" alt="image" src="https://github-readme-streak-stats.herokuapp.com?user=Marilualmeida&theme=radical" alt="GitHub Streak" />
 
