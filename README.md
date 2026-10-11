@@ -1,4 +1,4 @@
-<img width="1024" height="1536" alt="image" src="WhatsApp Imagedio 2026-10-08 at 16.39.46.jpeg" />
+<img width="683" height="1024" alt="image" src="WhatsApp Imagedio 2026-10-08 at 16.39.46.jpeg" />
 # 👋 Olá! Eu sou Maria Lúcia Almeida
 
 ### 💻 Estudante de Tecnologia da Informação | Desenvolvimento Web | Inteligência Artificial | Aprendizagem Contínua
